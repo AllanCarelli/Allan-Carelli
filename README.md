@@ -7,4 +7,4 @@ Some of my projects are:
 - https://github.com/AllanCarelli/Biblioteca/tree/main 
 - https://github.com/AllanCarelli/Deep_Builds 
 - https://github.com/AllanCarelli/Gacha_Laboratory 
---These are all very creative projects that i am proud from doing it.
+-These are all very creative projects that i am proud from doing it.

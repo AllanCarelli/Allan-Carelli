@@ -4,7 +4,7 @@ I am currently at the first year of High School and doing a course about Compute
 I did 1 year of english course in Wizard and keep praticing.
 # Projects
 Some of my projects are:
-- https://github.com/AllanCarelli/Biblioteca/tree/main 
-- https://github.com/AllanCarelli/Deep_Builds 
-- https://github.com/AllanCarelli/Gacha_Laboratory 
+- https://github.com/AllanCarelli/Biblioteca (A library simulator)
+- https://github.com/AllanCarelli/Deep_Builds (A website about storing builds from a game that i play)
+- https://github.com/AllanCarelli/Gacha_Laboratory (a gacha game where you can get a new chicken every 1 minute)
 - These are all very creative projects that i am proud from doing it.

@@ -4,7 +4,7 @@ I am currently at the first year of High School and doing a course about Compute
 I did 1 year of english course in Wizard and keep praticing.
 # Projects
 Some of my projects are:
-https://github.com/AllanCarelli/Biblioteca/tree/main \n
-https://github.com/AllanCarelli/Deep_Builds \n
-https://github.com/AllanCarelli/Gacha_Laboratory \n
+- https://github.com/AllanCarelli/Biblioteca/tree/main 
+- https://github.com/AllanCarelli/Deep_Builds 
+- https://github.com/AllanCarelli/Gacha_Laboratory 
 These are all very creative projects that i am proud from doing it.
